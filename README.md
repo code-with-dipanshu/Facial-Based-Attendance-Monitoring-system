@@ -2,7 +2,7 @@
 # Face Recognition Based Attendance System
 
 <p align="center">
-    <img src="(https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)" alt="Logo" width="200"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo" width="200"/>
 </p>
 
 ## Overview
@@ -47,7 +47,7 @@ The **Face Recognition Based Attendance System** is a Python-based application t
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone [<your-repo-url>](https://github.com/code-with-dipanshu/Facial-Based-Attendance-Monitoring-system.git)
+git clone https://github.com/code-with-dipanshu/Facial-Based-Attendance-Monitoring-system.git
 ```
 
 ### Step 2: Install Dependencies
