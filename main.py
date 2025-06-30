@@ -423,7 +423,7 @@ lbl3 = tb.Label(frame1, text="Attendance", font=('Poppins', 15))
 lbl3.pack(pady=10)
 
 # TreeView Table
-from tkinter import ttk
+
 style = ttk.Style()
 style.configure("Treeview.Heading", font=("Poppins", 12, "bold"))
 
