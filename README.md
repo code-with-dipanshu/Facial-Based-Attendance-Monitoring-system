@@ -2,7 +2,7 @@
 # Face Recognition Based Attendance System
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/OpenCV_Logo.png" alt="Logo" width="200"/>
+    <img src="(https://stock.adobe.com/in/search?k=attendance)" alt="Logo" width="200"/>
 </p>
 
 ## Overview
