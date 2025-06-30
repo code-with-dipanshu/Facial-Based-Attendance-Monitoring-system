@@ -2,7 +2,7 @@
 # Face Recognition Based Attendance System
 
 <p align="center">
-    <img src="(https://stock.adobe.com/in/search?k=attendance)" alt="Logo" width="200"/>
+    <img src="(https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)" alt="Logo" width="200"/>
 </p>
 
 ## Overview
